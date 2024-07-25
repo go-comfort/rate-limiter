@@ -1,0 +1,16 @@
+# IDEs
+.idea
+.vscode
+
+# Configs
+.config.json
+
+# Binaries
+server
+*.exe
+*.dll
+*.so
+
+# Logs
+*.log
+*.out
